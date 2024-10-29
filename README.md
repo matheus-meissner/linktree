@@ -24,7 +24,7 @@ Bem-vindo ao **Tokage Linktree**! Esta página permite que os visitantes acessem
 
 ## 💻 Uso
 
-Para visitar a página, basta acessar a landing page: linktree-tokage.vercel.app
+Para visitar a página, basta acessar a landing page: [linktree-tokage.vercel.app](https://linktree-tokage.vercel.app)
 
 ## 🤝 Contribuição
 
